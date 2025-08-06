@@ -21,7 +21,7 @@ This section of my portfolio is a hands-on application of the concepts from *Tru
 
 | SN | Project Title                                                                 |
 |----|--------------------------------------------------------------------------------|
-| 1  | [CTA Button Color Change – Signup Conversion Analysis](https://github.com/DhawaDG/Email-Newsletter-Signup-Optimization)                          |
+| 1  | [ Email Newsletter Signup Optimization](https://github.com/DhawaDG/Email-Newsletter-Signup-Optimization)                          |
 
 
 ---
