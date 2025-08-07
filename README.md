@@ -17,7 +17,7 @@ This section of my portfolio is a hands-on application of the concepts from *Tru
 
 ---
 
-## 📁 Projects Overview
+## 📁 Projects Overview **[PDF](#)**
 
 | SN | Project Title                                                                 |
 |----|--------------------------------------------------------------------------------|
