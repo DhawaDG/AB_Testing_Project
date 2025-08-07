@@ -17,7 +17,7 @@ This section of my portfolio is a hands-on application of the concepts from *Tru
 
 ---
 
-## 📁 Projects Overview **[PDF](https://github.com/DhawaDG/AB_Testing_Project/blob/main/fullupdatedABproject.pdf)**
+## 📁 Projects Overview 
 
 | SN | Project Title                                                                 |
 |----|--------------------------------------------------------------------------------|
@@ -26,7 +26,7 @@ This section of my portfolio is a hands-on application of the concepts from *Tru
 
 ---
 
-## 📚 Book Chapter-to-Project Mapping
+## 📚 Book Chapter-to-Project Mapping **[PDF](https://github.com/DhawaDG/AB_Testing_Project/blob/main/fullupdatedABproject.pdf)**
 
 | Book Chapter / Concept                          | Description                                      | Project Numbers           |
 |--------------------------------------------------|--------------------------------------------------|---------------------------|
