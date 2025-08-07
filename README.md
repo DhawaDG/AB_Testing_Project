@@ -17,7 +17,7 @@ This section of my portfolio is a hands-on application of the concepts from *Tru
 
 ---
 
-## 📁 Projects Overview **[PDF](#)**
+## 📁 Projects Overview **[PDF](https://github.com/DhawaDG/AB_Testing_Project/blob/main/fullupdatedABproject.pdf)**
 
 | SN | Project Title                                                                 |
 |----|--------------------------------------------------------------------------------|
