@@ -68,6 +68,7 @@ This section of my portfolio is a hands-on application of the concepts from *Tru
 - 📚 *Practical Statistics for Data Scientists* – Peter Bruce et al.
 
 ---
+## ⬅️⬅️ [Back to Main Profile](https://github.com/DhawaDG)
 
 Let me know if you'd like to explore the math, code snippets, or dashboards used in each of these experiments!
 
