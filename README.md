@@ -22,6 +22,8 @@ This section of my portfolio is a hands-on application of the concepts from *Tru
 | SN | Project Title                                                                 |
 |----|--------------------------------------------------------------------------------|
 | 1  | [ Email Newsletter Signup Optimization](https://github.com/DhawaDG/Email-Newsletter-Signup-Optimization)                          |
+| 2  | [ Mobile App Install Button Optimization](https://github.com/DhawaDG/Mobile-App-Install-Button-Test)                          |
+
 
 
 ---
