@@ -23,7 +23,7 @@ This section of my portfolio is a hands-on application of the concepts from *Tru
 |----|--------------------------------------------------------------------------------|
 | 1  | [ Email Newsletter Signup Optimization](https://github.com/DhawaDG/Email-Newsletter-Signup-Optimization)                          |
 | 2  | [ Mobile App Install Button Optimization](https://github.com/DhawaDG/Mobile-App-Install-Button-Test)                          |
-
+| 3  | [ E-commerce Average Order Value (AOV) Comparison](https://github.com/DhawaDG/-E-commerce-Average-Order-Value-AOV-Comparison)                          |
 
 
 ---
