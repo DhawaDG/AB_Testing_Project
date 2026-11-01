@@ -123,6 +123,24 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_4_Experimentation_Platform_and_Culture_wm.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_4_Experimentation_Platform_and_Culture_wm.pdf)
+
+
+### Speed Matters: An End-to-End Case Study 
+
+| Topics Covered | Page |
+| :--- | :--- |
+| Local Linear Approximation (LLA) in A/B Testing: Definition, mathematical foundations (first-order Taylor approximation $f(x+\Delta x) \approx f(x) + f'(x)\cdot \Delta x$), derivative slope calculation example, step-by-step math, and true value comparison | `page 1–3` |
+| Local Linear Approximation Real-World Analogy & Insights: Sound volume app analogy, extrapolating small load time drops ($100\text{ms} \to 120\text{ms}$), smooth curve assumptions, and interlink with sensitivity analysis and extreme results | `page 4–6` |
+| Measuring Website Performance: Server-side vs. page load vs. above-the-fold vs. First Contentful Paint (FCP) vs. Time to Interactive (TTI), per-user load times, and real user data tracking | `page 6–9` |
+| Percentiles vs. Averages in Skewed Distributions: Why mean load times are misleading due to outliers, median ($50^{\text{th}}$ percentile), $95^{\text{th}}$ percentile worst-case views, and restaurant service time analogy | `page 7–10` |
+| Slowdown Experiment Design: Deliberately injecting latency ($+100\text{ms}, +250\text{ms}, +500\text{ms}$), industry benchmarks (Amazon, Bing, Google slowdown tests), 7-step design procedure (OEC, latency tiers, user-level randomization, guardrail monitoring, fitting slopes), and ankle weights analogy | `page 11–13` |
+| Local Linear Approximation vs. Extreme Results: Detailed comparison table across definitions, formulas, assumptions, models, tipping points, and dangers of misuse | `page 13–14` |
+| Underlying Mathematical Frameworks: Mathematical tools, formulas, and visual analogies comparing symbolic derivatives, LLA (least squares linear regression), and non-linear extreme results (quadratic splines) | `page 14–17` |
+| Step-by-Step Mathematical Worked Examples: LLA math using 3 small-delay tiers ($0\text{ms}, 100\text{ms}, 250\text{ms}$), Python code snippets (`np.cov`), quadratic matrix setup ($X^T X \beta = X^T y$) for large delays ($500\text{ms}, 1000\text{ms}$), and demonstrating LLA failure at $1000\text{ms}$ | `page 17–20` |
+| Impact of Different Page Elements (Component-Level Slowdowns): Component sensitivity breakdown (HTML shell, Hero images, Ads, Below-the-fold images), multiple linear regression formulation ($M = a + \sum b_j \Delta t_j$), worked dataset solving for component slopes ($b_1, b_2, b_3$), news site dinner plate analogy, and summary takeaways | `page 21–27` |
+
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_5_Speed_Matters_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_5_Speed_Matters_wm.pdf)
   
 ## Book References
 
