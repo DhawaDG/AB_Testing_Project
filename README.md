@@ -63,7 +63,9 @@ This section of my portfolio is a hands-on application of the concepts from *Tru
 
 ## 📓  Handwritten Notes PDF
 
-A collection of my detailed handwritten notes and summaries on these topics is available in PDF format.  
+A collection of my detailed handwritten notes and summaries on these topics is available in PDF format.
+
+- 📄 [Handwritten Notes on A/B Testing Concepts](#)
 
 > **Note on Viewing PDFs on GitHub:**  
 > If you encounter an "***Unable to render code block***" or preview error when opening a **📄 View PDF on GitHub** link, please reload the page or use the **⬇️ Download PDF** link right below it.
