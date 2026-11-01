@@ -61,7 +61,7 @@ This section of my portfolio is a hands-on application of the concepts from *Tru
 
 ---
 
-### 📓  Handwritten Notes PDF
+## 📓  Handwritten Notes PDF
 
 A collection of my detailed handwritten notes and summaries on these topics is available in PDF format.  
 
