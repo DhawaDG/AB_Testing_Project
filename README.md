@@ -84,7 +84,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_1_Introduction_and_Motivation_wm.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_1_Introduction_and_Motivation_wm.pdf)
 
-
+### Twyman’s Law and Experimentation Trustworthiness 
 | Topics Covered | Page |
 | :--- | :--- |
 | Twyman's Law & Experimentation Trustworthiness: Introduction to misinterpretation of statistical results in A/B testing | `page 1` |
