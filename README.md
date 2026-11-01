@@ -107,6 +107,23 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_3_Twyman_Law_and_Experimentation_Trustworthiness_wm.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_3_Twyman_Law_and_Experimentation_Trustworthiness_wm.pdf)
 
+### Experimentation Platform and Culture
+
+| Topics Covered | Page |
+| :--- | :--- |
+| Experimentation Maturity Models & Goals: Definition, framework goals (designing, implementing, analyzing, and trusting tests), and maturity journey analogy | `page 1` |
+| Maturity Levels Breakdown: Level 1 (Manual Testing), Level 2 (Basic Infrastructure), Level 3 (Centralized Platform), Level 4 (Self-Service Scalable Platform), Level 5 (Experimentation-Driven Culture), and the math/trust shift behind maturity levels | `page 1–4` |
+| Real-World Analogy in Code & Summary Table: Python simulation concept (manual vs. mature tests), maturity level comparison table (Level 1, 3, 5), and final thoughts on trust ladders | `page 4–5` |
+| Infrastructure & Tools Overview: Technical systems definition, why infrastructure matters (plumbing analogy), avoiding leaky pipes/dirty data, and core components intro | `page 5–6` |
+| Core Component 1 — Experimentation Service (Randomization Engine): Randomization function, determinism via user ID seeds, code implementation, and consequences of randomization failure | `page 6–7` |
+| Core Component 2 — Exposure Logging (Telemetry): Definition of exposure logging, cinema test screening analogy (analyzing exposed vs. assigned users), and Python code snippet | `page 7–8` |
+| Core Component 3 — Metric Definition Layer: Standardized metrics definition, code snippet, and reducing ambiguity/cherry-picking | `page 7–8` |
+| Core Component 4 — Guardrails, Diagnostics & Dashboards: Automatic SRM checks (`check_srm` code snippet), visual dashboards (Airbnb XP, Netflix XP, Uber's Experimentation Platform, Microsoft Exp), and reporting features | `page 9–10` |
+| Why Infrastructure Matters & Interlinked Topics Summary Table: "Garbage In, Garbage Out" concept, interlinked topics (SRM, Internal Validity, CIs, Maturity), and final layer risk breakdown table | `page 10–11` |
+
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_4_Experimentation_Platform_and_Culture_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_4_Experimentation_Platform_and_Culture_wm.pdf)
+  
 ## Book References
 
 Key resources and books that guided my learning journey:
