@@ -100,7 +100,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_3_Twyman_Law_and_Experimentation_Trustworthiness_wm.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_3_Twyman_Law_and_Experimentation_Trustworthiness_wm.pdf)
 
-#### Book References
+## Book References
 
 Key resources and books that guided my learning journey:
 - 📄 [Handwritten Notes on A/B Testing Concepts](#)
