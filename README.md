@@ -71,20 +71,25 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 > If you encounter an "***Unable to render code block***" or preview error when opening a **📄 View PDF on GitHub** link, please reload the page or use the **⬇️ Download PDF** link right below it.
 
 ### Introduction and Motivation:
+
 | Topics Covered | Page |
 | :--- | :--- |
-| Introduction & Core Terminology: Online controlled experiments, A/B test definition, Control Group (A), Treatment Group (B), analogies, and random assignment math concepts | `page 1` |
-| Treatment Effects, Randomization, and Unit of Randomization/Analysis: Defining treatment impact, eliminating bias via random assignment, and common units of analysis | `page 2` |
-| Metrics & Statistical Significance: Invariant vs. evaluation metrics, Null hypothesis ($H_0$), statistical significance, $Z$-score formula, statistical power, and sample size requirements | `page 3` |
-| Experiment Metrics & P-Values: Lift calculations, variance, standard error, and common pitfalls in p-value interpretation | `page 4` |
-| Correlation vs. Causality: Why correlation does not equal causation, examples from app data, and defining causal relationships | `page 5` |
-| Measuring Causality & Trustworthiness: Real-world study analogies, why randomized experiments are required to establish causality, and principles of trustworthy testing | `page 6` |
-| Controlled Experiment Ingredients & Tenets: Essential prerequisites for running valid experiments (clear hypothesis, randomization, power, instrumentation, metrics, duration, analysis plan) and guiding tenets | `page 7` |
-| Tenets & Improvement Over Time: Core experiment rules (speed matters, decentralize, evaluate long-term impact, pre-defined metrics), compound effects of iteration, and rapid feedback loops | `page 8` |
-| Strategy vs. Tactics & Overall Evaluation Criterion (OEC): High-level strategy vs. tactical experiments, real-world mountain climbing analogy, Overall Evaluation Criterion (OEC), and cumulative lift formulas | `page 9` |
+| Online Controlled Experiments Terminology & Core Vocabulary: Scientific experiment definition, Control (A) vs. Treatment (B) groups, analogies, and random assignment math concepts | `page 1` |
+| Treatment Effects, Randomization & Unit of Randomization/Analysis: Treatment effect formulas, coin toss analogy, unit of analysis (user, session, cookie), and confounding risk | `page 2` |
+| Metrics, Significance & Power: Invariant vs. evaluation metrics, null hypothesis ($H_0$), $Z$-score formula, statistical power, sample size requirements, and lift formula | `page 3` |
+| Variance, Standard Error & P-Value Misinterpretations: Variance vs. standard error, confidence intervals, and common missteps in interpreting p-values | `page 4` |
+| Why Experiment? Correlation, Causality & Observational Limitations: Why observational data can mislead, correlation vs. causation, and confounding variables | `page 5` |
+| Controlled Experiments vs. Medicine Trials: Medical headache trial setup, placebo vs. active treatment, and mapping medical trials directly to web A/B testing | `page 6–7` |
+| Observational Study Biases & Limitations: Selection bias, self-selection bias, survivorship bias, seasonality, and why regression/propensity matching falls short of experiments | `page 7–9` |
+| Head-to-Head Comparison Table: Controlled Experiments vs. Observational Studies across assignment, bias, causality, confounding, and reliability | `page 9–10` |
+| Why Randomization Equals Trust: Definition of randomization, button color test example, and why non-randomized tests fail | `page 10–12` |
+| Randomization as the Gold Standard: Applications in medicine, public policy, and tech for trustworthy causal inference | `page 13` |
+| Causality, Real-World Analogies & Trustworthiness: Online note-taking analogy, trustworthiness criteria, and essential ingredients for controlled experiments | `page 14–16` |
+| Tenets of Experimentation & Iterative Improvement: Guiding rules (trust data, speed matters, pre-defined metrics), compound effect of small wins, and feedback loops | `page 17–18` |
+| Strategy vs. Tactics & Overall Evaluation Criterion (OEC): Strategic goals vs. tactical experiments, Mount Everest analogy, OEC definition, and cumulative lift math ($\sum \Delta_i$) | `page 18–19` |
 
-- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_1_Introduction_and_Motivation_wm.pdf)
-- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_1_Introduction_and_Motivation_wm.pdf)
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_1_.Introduction_and_Motivation_merged_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_1_.Introduction_and_Motivation_merged_wm.pdf)
 
 ### Twyman’s Law and Experimentation Trustworthiness 
 | Topics Covered | Page |
