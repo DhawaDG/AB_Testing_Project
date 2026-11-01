@@ -61,8 +61,32 @@ This section of my portfolio is a hands-on application of the concepts from *Tru
 
 ---
 
-## 📓 Notes & References
+### 📓  Handwritten Notes PDF
 
+A collection of my detailed handwritten notes and summaries on these topics is available in PDF format.  
+
+> **Note on Viewing PDFs on GitHub:**  
+> If you encounter an "***Unable to render code block***" or preview error when opening a **📄 View PDF on GitHub** link, please reload the page or use the **⬇️ Download PDF** link right below it.
+
+### Introduction and Motivation:
+| Topics Covered | Page |
+| :--- | :--- |
+| Introduction & Core Terminology: Online controlled experiments, A/B test definition, Control Group (A), Treatment Group (B), analogies, and random assignment math concepts | `page 1` |
+| Treatment Effects, Randomization, and Unit of Randomization/Analysis: Defining treatment impact, eliminating bias via random assignment, and common units of analysis | `page 2` |
+| Metrics & Statistical Significance: Invariant vs. evaluation metrics, Null hypothesis ($H_0$), statistical significance, $Z$-score formula, statistical power, and sample size requirements | `page 3` |
+| Experiment Metrics & P-Values: Lift calculations, variance, standard error, and common pitfalls in p-value interpretation | `page 4` |
+| Correlation vs. Causality: Why correlation does not equal causation, examples from app data, and defining causal relationships | `page 5` |
+| Measuring Causality & Trustworthiness: Real-world study analogies, why randomized experiments are required to establish causality, and principles of trustworthy testing | `page 6` |
+| Controlled Experiment Ingredients & Tenets: Essential prerequisites for running valid experiments (clear hypothesis, randomization, power, instrumentation, metrics, duration, analysis plan) and guiding tenets | `page 7` |
+| Tenets & Improvement Over Time: Core experiment rules (speed matters, decentralize, evaluate long-term impact, pre-defined metrics), compound effects of iteration, and rapid feedback loops | `page 8` |
+| Strategy vs. Tactics & Overall Evaluation Criterion (OEC): High-level strategy vs. tactical experiments, real-world mountain climbing analogy, Overall Evaluation Criterion (OEC), and cumulative lift formulas | `page 9` |
+
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_1_Introduction_and_Motivation_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_1_Introduction_and_Motivation_wm.pdf)
+  
+#### Book References
+
+Key resources and books that guided my learning journey:
 - 📄 [Handwritten Notes on A/B Testing Concepts](#)
 - 📚 *Trustworthy Online Controlled Experiments* – Ron Kohavi et al.
 - 📚 *Practical Statistics for Data Scientists* – Peter Bruce et al.
