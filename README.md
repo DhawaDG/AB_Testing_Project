@@ -83,7 +83,23 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_1_Introduction_and_Motivation_wm.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_1_Introduction_and_Motivation_wm.pdf)
-  
+
+
+| Topics Covered | Page |
+| :--- | :--- |
+| Twyman's Law & Experimentation Trustworthiness: Introduction to misinterpretation of statistical results in A/B testing | `page 1` |
+| Confidence Intervals (CI) in A/B Testing: Simple explanation, factory ruler analogy, math concept for proportions, and Python code visualization | `page 2–4` |
+| Useful Tricks & Comparison to P-Values: Interpreting CIs, width vs. precision, and how CIs compare to p-values | `page 5` |
+| Threats to Internal Validity: Definition, bad lighting in an eye test analogy, and common threats table (Instrumentation, Selection Bias, History, Maturity, Leakage, Implementation Bugs) | `page 6–7` |
+| Python Analogy & Simulation of Internal Threats: Simulating biased assignment and checking results | `page 8–9` |
+| Segment Differences & Simpson's Paradox Introduction: Fast food experiment analogy (McDonald's spicy burger), why segment analysis matters, and Python simulation of segment masking | `page 10–12` |
+| Threats to External Validity: Internal vs. external validity comparison, common threats table (Time bias, User bias, Geographic bias, Device bias, Scale-up failure), and Python generalization analogy | `page 13–16` |
+| Simpson's Paradox Deep Dive: College admissions bias example, how trends reverse when groups combine, and Python simulation of Simpson's paradox in A/B testing | `page 17–20` |
+| Healthy Skepticism & Twyman's Law: Definition ("Any figure that looking interesting or different is usually wrong"), miracle drug analogy, examples where skepticism saves you, and Python surprise lift simulation | `page 21–24` |
+
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_3_Twyman_Law_and_Experimentation_Trustworthiness_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_3_Twyman_Law_and_Experimentation_Trustworthiness_wm.pdf)
+
 #### Book References
 
 Key resources and books that guided my learning journey:
