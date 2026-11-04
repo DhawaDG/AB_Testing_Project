@@ -296,7 +296,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Topics Covered | Page |
 | :--- | :--- |
 | Why A/A Tests?: Definition of an A/A test (splitting traffic without a treatment), system validation vs. feature validation, laboratory scale calibration analogy, Type I error ($\alpha$) estimation, and doctor thermometer analogy | `page 1–3` |
-| How to Run A/A Tests (Core Principles): 5 key principles (random user splitting, production scale execution, running multiple tests to check Type I error rate, testing across key metrics, checking statistical properties/$p$-value uniform distributions), digital scale lab analogy, and summary table | `page 3–5` |
+| How to Run A/A Tests (Core Principles): 5 key principles (random user splitting, production scale execution, running multiple tests to check Type I error rate, testing across key metrics, checking statistical properties/ ($p$)-value uniform distributions), digital scale lab analogy, and summary table | `page 3–5` |
 | What Does it Mean When an A/A Test Fails?: Definition of A/A failure, 5 main failure scenarios (inflated Type I error rate, inconsistent/biased randomization, instrumentation/logging bugs, time-based/temporal bias, cross-bucket contamination), faulty thermometer analogy, summary table of common A/A failures, and debugging steps | `page 6–9` |
 
 ###  Triggering for Improved Sensitivity 
