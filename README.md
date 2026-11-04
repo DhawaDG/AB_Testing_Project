@@ -142,7 +142,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_5_Speed_Matters_wm.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_5_Speed_Matters_wm.pdf)
 
-### 
+### Organizational Metrics
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -154,7 +154,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Sidebar — Gameability: Definition of metric manipulation vs. real user value; school grading analogy; spammy button/CTR vs. downstream purchase conversion example; and principles of hard-to-game metrics | `page 41–44` |
 
 
-###
+### Metrics for Experimentation and the Overall Evaluation Criterion
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -176,7 +176,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | The Lucas Critique: Definition ("You can't reliably use historical models to predict the effect of a policy change"), streaming platform ad increase example, math formulas, and A/B testing overlap | `page 25–26` |
 
 
-###
+###  Institutional Memory and Meta-Analysis
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -186,7 +186,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Why Institutional Memory is Useful & Overlapping Topics: Avoiding repeated failures, speeding up decisions, jigsaw puzzle analogy, Bayesian A/B testing, and boosting statistical power | `page 3` |
 
 
-###
+###  Ethics in Controlled Experiment
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -198,7 +198,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | User-Level vs. Session-Level Bucketing & Mathematical Contamination: Comparing clean user-level bucketing with flawed session-level bucketing, the mathematical impact of cross-bucket contamination ($\Delta_{\text{obs}} = (1-c)\cdot \Delta$), and summary ID guidelines | `page 4` |
 
 
-###
+###   Complementary Techniques 
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -209,7 +209,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Surveys & External Data: Structured questionnaires, ordinal scales, Likert responses, tracking outlier/tail performance, and quantitative tail analysis via quantiles | `page 25–29` |
 | Putting It All Together (Multi-Method Data Fusion): Combining complementary techniques, ensemble learning, Principal Component Analysis (PCA), Bayesian inference, multi-model data fusion, covariance/redundancy analysis, and decision theory with utility functions | `page 29–35` |
 
-###
+###  Observational Causal Studies
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -222,7 +222,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Advanced Human Evaluation Design: Paired design vs. unpaired $t$-tests, Gold Questions (spam detection via binomial tests), and median aggregation for robustness against outliers | `page 28–34` |
 | User Experience Research (UER) & Pitfalls in Observational Studies: Defining UER and latent variables; pitfalls of observational studies (confounding, selection bias, model misspecification, over-controlling, Simpson's Paradox, no ground truth); and sidebar on famous refuted observational studies (HRT, beta-carotene antioxidants) | `page 35–39` |
 
-###
+###  Client-Side Experiments
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -231,7 +231,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Core Implications for Client-Side Experiments: Detailed breakdown of testing risks including exposure bias, delayed randomization and logging gaps, instrumentation gaps (ad blockers, network delays, JS errors), inconsistent cross-device/session assignments, and treatment leakage/flickering | `page 6–10` |
 | Conclusions, Best Practices & Mitigations: When to prefer server-side vs. client-side testing, high-stakes rule of thumb, mitigation techniques for client-side issues (triggered analysis, redundant logging, assignment proportion validation), and underlying missing data concepts | `page 10–13` |
 
-###
+###  Instrumentation
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -239,7 +239,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Processing Logs from Multiple Sources: Challenges in large-scale A/B testing systems combining client, server, and third-party logs; key challenges including time skew, ID stitching across different identifiers, event duplication/loss, and relational/probabilistic join foundations | `page 2–3` |
 | Culture of Instrumentation: Organizational mindset where tracking and measurement are built by default, smart factory analogy, why instrumentation is critical for experimentation, mathematical function mappings, and key takeaways | `page 3–4` |
 
-###
+###  Choosing a Randomization Unit 
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -248,7 +248,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Randomization & Analysis Summary Table: Summary of mismatch risks, clustering adjustments, and interlocking experiment design topics | `page 3–4` |
 | User-Level Randomization: Definition, grocery store loyalty cards analogy, advantages (consistency, cleaner metrics, session stitching), challenges (unauthenticated users, multi-device tracking, shared IPs), and implementation summary | `page 5–8` |
 
-###
+###   Ramping Experiment Exposure: Trading Off Speed,Quality, and Risk
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -258,7 +258,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Four Ramp Phases: Structured deployment phases including Pre-launch check / smoke test, Safe ramp-up ($1\%–10\%$), Data ramp ($25\%–50\%$), Final (90/No-Go) rollout, risk vs. exposure curves, and summary table | `page 6–7` |
 | Post-Final Ramp: Monitoring after $100\%$ rollout, regression to the mean, delayed impact detection (churn, LTV, long-lagged metrics), operational readiness, and summary | `page 7–8` |
 
-###
+###  Scaling Experiment Analyses
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -266,7 +266,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Data Computation: Definition of computing experiment metrics, deltas, standard errors, confidence intervals, p-values, and guardrail metrics from processed logs; mathematical foundation with a worked numerical example | `page 3–5` |
 | Results Summary and Visualization: Communicating experiment outcomes through tabular summaries and visual representations (bar plots with error bars, time-series plots, lift charts); mapping error bars to standard errors and confidence intervals ($\pm 1.96 \times SE$); and summary table | `page 5–8` |
 
-###
+###  The Statistics behind Online Controlled Experiments 
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -277,7 +277,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Chi-Square Tests ($\chi^2$): Pearson residuals and expected counts, Example 1: Goodness-of-fit test (die fairness), Example 2: Test of independence (gender vs. handedness), Resampling/Permutation-based $\chi^2$ test, and Theoretical $2 \times 3$ contingency table test | `page 22–31` |
 | Fisher's Exact Test: Hypergeometric distribution formula, fixed margins concept, step-by-step enumeration of possible $2 \times 2$ tables, two-tailed $p$-value derivation, and scientific fraud detection application | `page 32–41` |
 
-###
+###  Variance Estimation and Improved Sensitivity: Pitfalls and Solutions 
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -291,7 +291,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Ratio of Averages vs. Average of Ratios: Comparing Normalized CTR ($\sum Y_i / \sum X_i$) against Naive Per-User CTR ($\frac{1}{n} \sum \frac{Y_i}{X_i}$), Influencer vs. Regular User real-world example, and avoiding Simpson's Paradox | `page 25–28` |
 | Weighted Averages with Correlation Adjustment (UMVUE): Optimal variance weighting formula ($w_i \propto \frac{n_i}{1 + (n_i - 1)\rho}$), defining intra-user correlation ($\rho$), step-by-step worked math across 3 users, and comparing Naive vs. UMVUE weighted averages | `page 28–32` |
 
-###
+### The A/A Test 
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -305,7 +305,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Ratio of Averages vs. Average of Ratios: Comparing Normalized CTR ($\sum Y_i / \sum X_i$) against Naive Per-User CTR ($\frac{1}{n} \sum \frac{Y_i}{X_i}$), Influencer vs. Regular User real-world example, and avoiding Simpson's Paradox | `page 25–28` |
 | Weighted Averages with Correlation Adjustment (UMVUE): Optimal variance weighting formula ($w_i \propto \frac{n_i}{1 + (n_i - 1)\rho}$), defining intra-user correlation ($\rho$), step-by-step worked math across 3 users, and comparing Naive vs. UMVUE weighted averages | `page 28–32` |
 
-###
+###  Triggering for Improved Sensitivity 
 
 | Topics Covered | Page |
 | :--- | :--- |
@@ -316,7 +316,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Trustworthy Triggering: The non-negotiable core principle that triggering must be strictly independent of treatment, search layout analogy (Case A vs. Case B), user relationship rules, and consequences of violation | `page 17–21` |
 | Common Pitfalls, Root Causes & Fixes: Detailed breakdown of 4 major mistakes (treatment-dependent triggering, post-treatment behavior, misinterpreting overall effect, differential triggering rates), pre- vs. post-treatment comparison table, and best practices table | `page 22–26` |
 
-###
+### Sample Ratio Mismatch and Other Trust-Related Guardrail Metrics
 
 | Topics Covered | Page |
 | :--- | :--- |
