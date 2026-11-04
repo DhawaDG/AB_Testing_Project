@@ -372,7 +372,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 ## Book References
 
 Key resources and books that guided my learning journey:
-- 📄 [Handwritten Notes on A/B Testing Concepts](#)
+
 - 📚 *Trustworthy Online Controlled Experiments* – Ron Kohavi et al.
 - 📚 *Practical Statistics for Data Scientists* – Peter Bruce et al.
 
