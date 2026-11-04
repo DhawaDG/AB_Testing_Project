@@ -153,7 +153,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Sidebar — Guardrail Metrics: Definition, role in protecting user experience/trust, highway car analogy, and application examples across domains; 4 rules of good guardrails (Bounded, Fast to Measure, Hard to Game, Critical); two-hypothesis testing decision framework; step-by-step homepage A/B test worked example; and Two-Sample $Z$-test statistical violation checks ($Z$-score calculation) | `page 30–41` |
 | Sidebar — Gameability: Definition of metric manipulation vs. real user value; school grading analogy; spammy button/CTR vs. downstream purchase conversion example; and principles of hard-to-game metrics | `page 41–44` |
 
-
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_6_organizational_metric_wm_compressed.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_6_organizational_metric_wm_compressed.pdf)
+  
 ### Metrics for Experimentation and the Overall Evaluation Criterion
 
 | Topics Covered | Page |
@@ -175,7 +177,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Campbell's Law: Definition, high-stakes metric corruption, broken retention filtering example, school test scores analogy, and defense strategies | `page 22–24` |
 | The Lucas Critique: Definition ("You can't reliably use historical models to predict the effect of a policy change"), streaming platform ad increase example, math formulas, and A/B testing overlap | `page 25–26` |
 
-
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_7_metrics_for_experiment_wm_compressed.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_7_metrics_for_experiment_wm_compressed.pdf)
+  
 ###  Institutional Memory and Meta-Analysis
 
 | Topics Covered | Page |
@@ -185,7 +189,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Institutional Memory Tools & Connections: Overview of internal platform tools (Airbnb XP, Netflix Meta Flow), meta-analysis, Goodhart's law, and experimentation culture | `page 2–3` |
 | Why Institutional Memory is Useful & Overlapping Topics: Avoiding repeated failures, speeding up decisions, jigsaw puzzle analogy, Bayesian A/B testing, and boosting statistical power | `page 3` |
 
-
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_8_institutonal_memory_meta_analysis_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_8_institutonal_memory_meta_analysis_wm.pdf)
+  
 ###  Ethics in Controlled Experiment
 
 | Topics Covered | Page |
@@ -197,7 +203,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | User Identifiers (Sidebar): Why stable user IDs matter to ensure independence and prevent cross-bucket contamination, and a breakdown of common identifier types (cookies, login IDs, device IDs, hashed composite emails) | `page 3–4` |
 | User-Level vs. Session-Level Bucketing & Mathematical Contamination: Comparing clean user-level bucketing with flawed session-level bucketing, the mathematical impact of cross-bucket contamination ($\Delta_{\text{obs}} = (1-c)\cdot \Delta$), and summary ID guidelines | `page 4` |
 
-
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_9_ethics_in_controlled_experiment_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_9_ethics_in_controlled_experiment_wm.pdf)
+  
 ###   Complementary Techniques 
 
 | Topics Covered | Page |
@@ -208,7 +216,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | User Experience Research (UER) & Focus Groups: Qualitative insights, depth over breadth, small sample sizes, focus group discussions, exploratory data analysis (EDA), and latent variable discovery | `page 20–25` |
 | Surveys & External Data: Structured questionnaires, ordinal scales, Likert responses, tracking outlier/tail performance, and quantitative tail analysis via quantiles | `page 25–29` |
 | Putting It All Together (Multi-Method Data Fusion): Combining complementary techniques, ensemble learning, Principal Component Analysis (PCA), Bayesian inference, multi-model data fusion, covariance/redundancy analysis, and decision theory with utility functions | `page 29–35` |
-
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_10_complementary_techniques_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_10_complementary_techniques_wm.pdf)
+  
 ###  Observational Causal Studies
 
 | Topics Covered | Page |
@@ -221,6 +231,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Human Evaluation & Inter-Rater Reliability: Using judges/experts for qualitative scoring, Cohen's Kappa ($\kappa$) for 2 raters, Fleiss' Kappa for multiple raters, interpreting kappa values, and sample size/variance reduction ($\text{Var}(\bar{x}) = \sigma^2 / R$) | `page 19–27` |
 | Advanced Human Evaluation Design: Paired design vs. unpaired $t$-tests, Gold Questions (spam detection via binomial tests), and median aggregation for robustness against outliers | `page 28–34` |
 | User Experience Research (UER) & Pitfalls in Observational Studies: Defining UER and latent variables; pitfalls of observational studies (confounding, selection bias, model misspecification, over-controlling, Simpson's Paradox, no ground truth); and sidebar on famous refuted observational studies (HRT, beta-carotene antioxidants) | `page 35–39` |
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_11_observational_causal_studies_wm_compressed.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_11_observational_causal_studies_wm_compressed.pdf)
+  
 
 ###  Client-Side Experiments
 
@@ -230,6 +243,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Randomization Timing & Mathematical Bias: Mathematical formulation of unbiased server-side randomization versus client-side selection bias, conditioning on JavaScript execution/staying long enough not to bounce, and violations of the Rubin Causal Model | `page 3–6` |
 | Core Implications for Client-Side Experiments: Detailed breakdown of testing risks including exposure bias, delayed randomization and logging gaps, instrumentation gaps (ad blockers, network delays, JS errors), inconsistent cross-device/session assignments, and treatment leakage/flickering | `page 6–10` |
 | Conclusions, Best Practices & Mitigations: When to prefer server-side vs. client-side testing, high-stakes rule of thumb, mitigation techniques for client-side issues (triggered analysis, redundant logging, assignment proportion validation), and underlying missing data concepts | `page 10–13` |
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_12_client_side_experiment_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_12_client_side_experiment_wm.pdf)
+  
 
 ###  Instrumentation
 
@@ -238,6 +254,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Client-Side vs. Server-Side Instrumentation: Definitions, advantages and disadvantages of server-side (backend) vs. client-side (frontend JS) tracking, comparison table, restaurant analogy, and missing data mechanisms (MCAR, MAR, MNAR) | `page 1–2` |
 | Processing Logs from Multiple Sources: Challenges in large-scale A/B testing systems combining client, server, and third-party logs; key challenges including time skew, ID stitching across different identifiers, event duplication/loss, and relational/probabilistic join foundations | `page 2–3` |
 | Culture of Instrumentation: Organizational mindset where tracking and measurement are built by default, smart factory analogy, why instrumentation is critical for experimentation, mathematical function mappings, and key takeaways | `page 3–4` |
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_13_instrumentations_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_13_instrumentations_wm.pdf)
+  
 
 ###  Choosing a Randomization Unit 
 
@@ -247,6 +266,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Violation of Independence & Clustered Standard Errors: Why grouping at the cluster level (schools) while analyzing at the student level violates independent observations, leads to intra-cluster correlation (ICC), underestimates standard errors, and requires clustered standard errors | `page 2–3` |
 | Randomization & Analysis Summary Table: Summary of mismatch risks, clustering adjustments, and interlocking experiment design topics | `page 3–4` |
 | User-Level Randomization: Definition, grocery store loyalty cards analogy, advantages (consistency, cleaner metrics, session stitching), challenges (unauthenticated users, multi-device tracking, shared IPs), and implementation summary | `page 5–8` |
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_14_choosing_randomizations_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_14_choosing_randomizations_wm.pdf)
+  
 
 ###   Ramping Experiment Exposure: Trading Off Speed,Quality, and Risk
 
@@ -257,6 +279,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | SQR Ramping Framework (Speed, Quality, Risk): Framework definition, mobile phone launch analogy, component interactions (triangle model), and mathematical risk modeling | `page 4–5` |
 | Four Ramp Phases: Structured deployment phases including Pre-launch check / smoke test, Safe ramp-up ($1\%–10\%$), Data ramp ($25\%–50\%$), Final (90/No-Go) rollout, risk vs. exposure curves, and summary table | `page 6–7` |
 | Post-Final Ramp: Monitoring after $100\%$ rollout, regression to the mean, delayed impact detection (churn, LTV, long-lagged metrics), operational readiness, and summary | `page 7–8` |
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_15_ramping_exp_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_15_ramping_exp_wm.pdf)
+  
 
 ###  Scaling Experiment Analyses
 
@@ -265,6 +290,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Data Processing: Definition of raw log cleaning, parsing, filtering, and aggregation by unit of analysis; pizza shop analogy; ETL (Extract, Transform, Load) pipeline steps; and underlying math for aggregation over randomized units | `page 1–2` |
 | Data Computation: Definition of computing experiment metrics, deltas, standard errors, confidence intervals, p-values, and guardrail metrics from processed logs; mathematical foundation with a worked numerical example | `page 3–5` |
 | Results Summary and Visualization: Communicating experiment outcomes through tabular summaries and visual representations (bar plots with error bars, time-series plots, lift charts); mapping error bars to standard errors and confidence intervals ($\pm 1.96 \times SE$); and summary table | `page 5–8` |
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_16_scaling_exp_analysis_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_16_scaling_exp_analysis_wm.pdf)
+  
 
 ###  The Statistics behind Online Controlled Experiments 
 
@@ -276,6 +304,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Fisher's Meta-Analysis: Definition, formula $\chi^2 = -2 \sum \ln(p_i)$, jury deliberation analogy, and step-by-step worked math example combining independent $p$-values across platforms | `page 18–21` |
 | Chi-Square Tests ($\chi^2$): Pearson residuals and expected counts, Example 1: Goodness-of-fit test (die fairness), Example 2: Test of independence (gender vs. handedness), Resampling/Permutation-based $\chi^2$ test, and Theoretical $2 \times 3$ contingency table test | `page 22–31` |
 | Fisher's Exact Test: Hypergeometric distribution formula, fixed margins concept, step-by-step enumeration of possible $2 \times 2$ tables, two-tailed $p$-value derivation, and scientific fraud detection application | `page 32–41` |
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_17_the_statistics_behind_online_controlled_exp_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_17_the_statistics_behind_online_controlled_exp_wm.pdf)
+
 
 ###  Variance Estimation and Improved Sensitivity: Pitfalls and Solutions 
 
@@ -290,6 +321,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Variance of Other Statistics — The Delta Method: Estimating variance for non-average metrics (ratios, rates, percentiles), step-by-step Delta Method derivation for CTR ($R = Y/X$), and a hand-calculated worked example with 4 users | `page 21–25` |
 | Ratio of Averages vs. Average of Ratios: Comparing Normalized CTR ($\sum Y_i / \sum X_i$) against Naive Per-User CTR ($\frac{1}{n} \sum \frac{Y_i}{X_i}$), Influencer vs. Regular User real-world example, and avoiding Simpson's Paradox | `page 25–28` |
 | Weighted Averages with Correlation Adjustment (UMVUE): Optimal variance weighting formula ($w_i \propto \frac{n_i}{1 + (n_i - 1)\rho}$), defining intra-user correlation ($\rho$), step-by-step worked math across 3 users, and comparing Naive vs. UMVUE weighted averages | `page 28–32` |
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_18_variance_estimation_and_improved_sensitivity_pitfull_and_solutions_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_18_variance_estimation_and_improved_sensitivity_pitfull_and_solutions_wm.pdf)
+  
 
 ### The A/A Test 
 
@@ -298,6 +332,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Why A/A Tests?: Definition of an A/A test (splitting traffic without a treatment), system validation vs. feature validation, laboratory scale calibration analogy, Type I error ($\alpha$) estimation, and doctor thermometer analogy | `page 1–3` |
 | How to Run A/A Tests (Core Principles): 5 key principles (random user splitting, production scale execution, running multiple tests to check Type I error rate, testing across key metrics, checking statistical properties/ ($p$)-value uniform distributions), digital scale lab analogy, and summary table | `page 3–5` |
 | What Does it Mean When an A/A Test Fails?: Definition of A/A failure, 5 main failure scenarios (inflated Type I error rate, inconsistent/biased randomization, instrumentation/logging bugs, time-based/temporal bias, cross-bucket contamination), faulty thermometer analogy, summary table of common A/A failures, and debugging steps | `page 6–9` |
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_19_AA_test_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_19_AA_test_wm.pdf)
+  
 
 ###  Triggering for Improved Sensitivity 
 
@@ -309,6 +346,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Overall Treatment Effect: Mathematical formula for global business impact ($\text{Overall Effect} = p \cdot \Delta_T + (1-p) \cdot \Delta_N$), discount coupon example, key underlying assumptions, and summary | `page 14–16` |
 | Trustworthy Triggering: The non-negotiable core principle that triggering must be strictly independent of treatment, search layout analogy (Case A vs. Case B), user relationship rules, and consequences of violation | `page 17–21` |
 | Common Pitfalls, Root Causes & Fixes: Detailed breakdown of 4 major mistakes (treatment-dependent triggering, post-treatment behavior, misinterpreting overall effect, differential triggering rates), pre- vs. post-treatment comparison table, and best practices table | `page 22–26` |
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_20_tiggering_for_improved_sensitivity_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_20_tiggering_for_improved_sensitivity_wm.pdf)
+  
 
 ### Sample Ratio Mismatch and Other Trust-Related Guardrail Metrics
 
@@ -324,6 +364,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Reasons Treatment Effects Differ Between Short-Term & Long-Term: 6 core mechanisms: User learning curve $T(n) = a(1 - e^{-bn})$, Novelty effect decay ($T(n) = a e^{-bn}$, Network effects/peer influence, Habit formation (sigmoid adoption curves), Delayed downstream metrics, and Churn/retention selectivity | `page 26–30` |
 | Long-Running Experiments & Survivor Bias Math: Why long-running A/B tests are used, core operational challenges (variant leakage, churn, external noise), medical drug trial analogy, and a day-by-day step-by-step mathematical proof demonstrating upward survivor bias $\widehat{T_{\text{obs}}}(t) > \hat{T}_{\infty}$ | `page 30–35` |
 | Alternative Methods for Long-Running Experiments: 4 forecasting alternatives: Early predictors/proxy metrics $\text{Corr}(X, Y)$, Causal modeling & ML estimators (uplift modeling, causal forests, Double ML), Survival analysis/retention modeling $S(t)$ extrapolation), and Synthetic controls/re-weighting (CUPED, PS weighting); college graduation proxy analogy; and summary table | `page 36–39` |
+- [📄 View PDF on GitHub](https://github.com/DhawaDG/AB_Testing_Project/blob/main/https://github.com/DhawaDG/AB_Testing_Project/blob/main/ab_21_sample_ratio_mismatch_wm.pdf)
+- [⬇️ Download PDF](https://github.com/DhawaDG/AB_Testing_Project/raw/refs/heads/main/ab_21_sample_ratio_mismatch_wm.pdf)
+  
 
   
 ## Book References
