@@ -273,7 +273,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 | Type I/II Errors & Statistical Power: Definitions ($\alpha, \beta, 1-\beta$), airport security metal detector analogy, step-by-step hypothesis test setup, $Z$-table critical value computation, and key drivers of power | `page 1–5` |
 | Bias in Experiments: Definition of estimator bias ($\text{Bias}(\hat{\Delta}) = E[\hat{\Delta}] - \Delta$), miscalibrated kitchen scale analogy, selection bias example, and mitigation techniques | `page 6–7` |
 | Multiple Testing & Corrections: Family-Wise Error Rate (FWER) formula ($1 - (1-\alpha)^m$), Bonferroni correction proof and worked math example, Benjamini-Hochberg False Discovery Rate (FDR) procedure with step-by-step worked table | `page 8–17` |
-| Fisher's Meta-Analysis: Definition, formula ($\chi^2 = -2 \sum \ln(p_i)$), jury deliberation analogy, and step-by-step worked math example combining independent $p$-values across platforms | `page 18–21` |
+| Fisher's Meta-Analysis: Definition, formula $\chi^2 = -2 \sum \ln(p_i)$, jury deliberation analogy, and step-by-step worked math example combining independent $p$-values across platforms | `page 18–21` |
 | Chi-Square Tests ($\chi^2$): Pearson residuals and expected counts, Example 1: Goodness-of-fit test (die fairness), Example 2: Test of independence (gender vs. handedness), Resampling/Permutation-based $\chi^2$ test, and Theoretical $2 \times 3$ contingency table test | `page 22–31` |
 | Fisher's Exact Test: Hypergeometric distribution formula, fixed margins concept, step-by-step enumeration of possible $2 \times 2$ tables, two-tailed $p$-value derivation, and scientific fraud detection application | `page 32–41` |
 
