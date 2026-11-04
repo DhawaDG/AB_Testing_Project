@@ -295,15 +295,9 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 
 | Topics Covered | Page |
 | :--- | :--- |
-| Common Pitfalls in Variance Estimation: Overview of common mistakes in A/B testing variance estimation | `page 1` |
-| Pitfall 1 — Raw CTR Variance vs. Per-User Metrics: Why raw Click-Through Rate ($\text{total clicks}/\text{total impressions}$) hides user-level variability, uniform (Site A) vs. skewed (Site B) behavior comparison, and mathematical breakdown | `page 1–4` |
-| Pitfall 2 — Correlation Within Units (Sessions vs. Users): Failing to account for intra-user correlation across sessions, e-commerce "Buy Now" button experiment example, "What is a session?" definition, and step-by-step worked math comparing session-level (naive) vs. user-level (correct) aggregation | `page 4–10` |
-| Pitfall 3 — Using Wrong Unit of Analysis & Impressions: Unit mismatch bias, "What is an impression?" definition, impression-level vs. user-level analysis in ad testing, and summary guidelines | `page 10–13` |
-| Pitfall 4 — Overfitting to Variance Reduction Techniques: Risks of overly aggressive covariate adjustment or tuning after observing outcomes, worked numerical example showing pre-planned vs. overfitted adjustments, and data leakage risks | `page 13–17` |
-| Improving Sensitivity: Methods to boost statistical power by reducing variance (CUPED / Covariate Adjustment, Triggering, Bucketing/Stratification), mathematical formula for adjusted variance $\text{Var}(Y_i^{\text{adj}}) = \sigma_y^2 (1 - R^2)$, and key takeaways | `page 18–20` |
-| Variance of Other Statistics — The Delta Method: Estimating variance for non-average metrics (ratios, rates, percentiles), step-by-step Delta Method derivation for CTR ($R = Y/X$), and a hand-calculated worked example with 4 users | `page 21–25` |
-| Ratio of Averages vs. Average of Ratios: Comparing Normalized CTR ($\sum Y_i / \sum X_i$) against Naive Per-User CTR ($\frac{1}{n} \sum \frac{Y_i}{X_i}$), Influencer vs. Regular User real-world example, and avoiding Simpson's Paradox | `page 25–28` |
-| Weighted Averages with Correlation Adjustment (UMVUE): Optimal variance weighting formula ($w_i \propto \frac{n_i}{1 + (n_i - 1)\rho}$), defining intra-user correlation ($\rho$), step-by-step worked math across 3 users, and comparing Naive vs. UMVUE weighted averages | `page 28–32` |
+| Why A/A Tests?: Definition of an A/A test (splitting traffic without a treatment), system validation vs. feature validation, laboratory scale calibration analogy, Type I error ($\alpha$) estimation, and doctor thermometer analogy | `page 1–3` |
+| How to Run A/A Tests (Core Principles): 5 key principles (random user splitting, production scale execution, running multiple tests to check Type I error rate, testing across key metrics, checking statistical properties/$p$-value uniform distributions), digital scale lab analogy, and summary table | `page 3–5` |
+| What Does it Mean When an A/A Test Fails?: Definition of A/A failure, 5 main failure scenarios (inflated Type I error rate, inconsistent/biased randomization, instrumentation/logging bugs, time-based/temporal bias, cross-bucket contamination), faulty thermometer analogy, summary table of common A/A failures, and debugging steps | `page 6–9` |
 
 ###  Triggering for Improved Sensitivity 
 
